@@ -14449,7 +14449,7 @@ NODE_CLASS_MAPPINGS = {
     "Create Grid Image": WAS_Image_Grid_Image,
     "Create Grid Image from Batch": WAS_Image_Grid_Image_Batch,
     "Create Morph Image": WAS_Image_Morph_GIF,
-    "Create Morph Image from Path": WAS_Image_Morph_GIF_By_Path,
+    # "Create Morph Image from Path": WAS_Image_Morph_GIF_By_Path,
     # "Create Video from Path": WAS_Create_Video_From_Path,
     "CLIPSeg Masking": WAS_CLIPSeg,
     "CLIPSeg Model Loader": WAS_CLIPSeg_Model_Loader,
